@@ -1,20 +1,15 @@
-## Welcome! 👋 
+## Welcome to my GitHub! 👋 
 
-### I'm Jacob, a full stack developer looking to get my foot in the door of the tech industry with a professional full-time position!
+### I'm Jacob, a UW Seattle graduate (summer 2022) and a full stack developer looking for my first full-time position as a professional SWE!
 
-### 
+[jacob_swierz_resume.pdf](https://github.com/swierj/swierj/files/9892471/jacob_swierz_resume.pdf)
 
-<!--
-**swierj/swierj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm currently working on a full stack e-commerce website for a cosmetic business
+- I'm also applying for and seeking fulltime positions as a frontend/fullstack SWE
+- Other than that I'm focusing on improving my programming skills, working on personal projects (mainly react based), and pursuing other hobbies in my spare time
 
-Here are some ideas to get you started:
+## How to navigate my GitHub?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- You can find my e-commerce project in the "nuvitta" repo and further information in the read.me!
+- Other personal/group projects I have done will be in their respective repos
+- My coursework from uni can be found in the "coursework" repo. Just a bunch of code!
