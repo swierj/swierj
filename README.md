@@ -1,4 +1,8 @@
-### Hi there 👋
+## Welcome! 👋 
+
+### I'm Jacob, a full stack developer looking to get my foot in the door of the tech industry with a professional full-time position!
+
+### 
 
 <!--
 **swierj/swierj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
