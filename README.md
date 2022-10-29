@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! 👋 
 
-#### I'm Jacob, a UW Seattle graduate (summer 2022) and a full stack developer looking for my first full-time position as a professional SWE! 
+#### Welcome to my GitHub! I'm a UW Seattle graduate (summer 2022) and a full stack developer looking for my first full-time position as a professional SWE! 
 
 My [resume](https://github.com/swierj/swierj/files/9892471/jacob_swierz_resume.pdf) :)
 
