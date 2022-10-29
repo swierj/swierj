@@ -1,4 +1,4 @@
-## Welcome to my GitHub! 👋 
+![banner](https://github.com/swierj/swierj/blob/main/header.png?raw=true)
 
 #### Welcome to my GitHub! I'm a recent UW Seattle graduate (summer 2022) and a full stack developer looking for my first full-time position as a professional SWE! 
 
