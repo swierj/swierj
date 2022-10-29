@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! 👋 
 
-### I'm Jacob, a UW Seattle graduate (summer 2022) and a full stack developer looking for my first full-time position as a professional SWE!
+#### I'm Jacob, a UW Seattle graduate (summer 2022) and a full stack developer looking for my first full-time position as a professional SWE! 
 
 My [resume](https://github.com/swierj/swierj/files/9892471/jacob_swierz_resume.pdf) :)
 
@@ -15,6 +15,12 @@ My [resume](https://github.com/swierj/swierj/files/9892471/jacob_swierz_resume.p
 - Other personal/group projects I have done will be in their respective repos
 - My coursework from uni can be found in the [coursework](https://github.com/swierj/coursework) repo. Just a bunch of code!
 
+## Tech Stack
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,js,react,html,css,r,py,mongodb,mysql,git,figma)](https://skills.thijs.gg)
+
 ## Contact me!
 
-- 
+- 425-829-9195
+- jacobswierz07@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jacobswierz/)
