@@ -2,12 +2,12 @@
 
 ## Welcome to my GitHub profile!
 
-#### I'm a recent UW Seattle graduate (summer 2022) and a full stack developer looking for my first full-time position as a professional SWE! 
+#### I'm a recent UW Seattle graduate (summer 2022) and a full stack developer looking for my first full-time position as a professional SWE/GIS developer! 
 
 My [resume](https://github.com/swierj/swierj/files/9892471/jacob_swierz_resume.pdf) :)
 
 - I'm currently working on a full stack e-commerce website for a cosmetic business
-- Also focusing on improving my programming skills, working on personal projects (mainly react based), and pursuing other hobbies in my spare time
+- Also focusing on improving my programming and GIS skills, working on personal projects (mainly react based), and pursuing other hobbies in my spare time
 - I'm hoping to start contributing to open source projects in the near future!
 - Lastly, besides coding, I also love skiing, hiking, lifting, playing video games, and listening to music!
 
