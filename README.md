@@ -15,7 +15,7 @@ My [resume](https://github.com/swierj/swierj/files/9892471/jacob_swierz_resume.p
 
 - You can find my e-commerce project in the [nuvitta](https://github.com/swierj/nuvitta) repo and further information in the read.me!
 - Other personal/group projects I have done will be in their respective repos
-- My coursework from uni can be found in the [coursework](https://github.com/swierj/coursework) repo. Just a bunch of code!
+- My coursework from uni can be found in the [coursework](https://github.com/swierj/coursework) repo.
 
 ## Tech Stack
 
