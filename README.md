@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile!
 
-#### I'm a recent UW Seattle graduate with a bachelor's in geography: data science looking for my first full-time position as a professional frontend/GIS developer! I have a passion for data science, specifically related to geography/GIS as well as frontend development and database architecture/management.
+#### I'm a recent UW Seattle graduate with a bachelor's in Geography: Data Science looking for my first full-time position as a professional frontend/GIS developer! I have a passion for data science, specifically related to geography/GIS as well as frontend development and database architecture/management.
 
 My [resume](https://github.com/swierj/swierj/files/9892471/jacob_swierz_resume.pdf) :)
 
